@@ -1,10 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.28)  6 MAY 2021 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.28)  5 MAY 2021 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/suban/Documents/school_files/latex/thirdSem/TOC/assignment-1/report.tex
+**/home/suban/Documents/school_files/latex/thirdSem/DL/introduction/document.te
+x
 
-(/home/suban/Documents/school_files/latex/thirdSem/TOC/assignment-1/report.tex
+(/home/suban/Documents/school_files/latex/thirdSem/DL/introduction/document.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-03> xparse <2020-03-03>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -183,7 +184,8 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count270
 \l__pdf_internal_box=\box50
-) (./report.aux)
+)
+No file document.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
@@ -255,43 +257,21 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--114
-
- []
-
-[2]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-40.
- (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 140.
- [3] (./report.aux) ) 
+] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 3083 strings out of 479383
- 44811 string characters out of 5875830
- 343305 words of memory out of 5000000
- 20184 multiletter control sequences out of 15000+600000
- 406840 words of font info for 39 fonts, out of 8000000 for 9000
+ 3045 strings out of 479383
+ 44335 string characters out of 5875830
+ 331293 words of memory out of 5000000
+ 20159 multiletter control sequences out of 15000+600000
+ 404334 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,10n,85p,424b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy8.pfb>
-Output written on report.pdf (3 pages, 66866 bytes).
+ 78i,10n,85p,307b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on document.pdf (1 page, 21769 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
