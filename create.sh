@@ -2,7 +2,7 @@
 CURPATH=`pwd`
 
 # argument structure
-# ./create {type} {docmuent name}
+# ./create {type} {docmuent name} {location}[optional]
 
 if [ -z "$1" ]
 then

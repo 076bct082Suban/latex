@@ -1,0 +1,606 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.15)  17 MAY 2021 21:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/suban/Documents/school/latex/thirdSem/DL/lab-1/report.tex
+(/home/suban/Documents/school/latex/thirdSem/DL/lab-1/report.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count185
+\calc@Bcount=\count186
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count187
+\calc@Cskip=\skip51
+)
+(/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks17
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count266
+\l_MT_multwidth_dim=\dimen150
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen151
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen152
+\l_MT_above_intertext_sep=\dimen153
+\l_MT_below_intertext_sep=\dimen154
+\l_MT_above_shortintertext_sep=\dimen155
+\l_MT_below_shortintertext_sep=\dimen156
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen157
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count269
+\c@subtable=\count270
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks21
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box50
+) (./report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen175
+\scratchbox=\box51
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen176
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 736.64186pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=706.64186pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./images//logo.png, id=1, 134.00063pt x 113.67468pt>
+File: ./images//logo.png Graphic file (type png)
+<use ./images//logo.png>
+Package pdftex.def Info: ./images//logo.png  used on input line 25.
+(pdftex.def)             Requested size: 134.00027pt x 113.6744pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+\OT1/cmr/m/n/12 Department of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+\OT1/cmr/m/n/12 Elec-tron-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+\OT1/cmr/m/n/12 Com-mu-ni-ca-tions
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.png>]
+<./images//and-gate.png, id=11, 76.285pt x 45.16875pt>
+File: ./images//and-gate.png Graphic file (type png)
+<use ./images//and-gate.png>
+Package pdftex.def Info: ./images//and-gate.png  used on input line 79.
+(pdftex.def)             Requested size: 76.2848pt x 45.16862pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 77--100
+[]$[]$ $[]$ 
+ []
+
+<./images//or-gate.png, id=12, 66.2475pt x 41.15375pt>
+File: ./images//or-gate.png Graphic file (type png)
+<use ./images//or-gate.png>
+Package pdftex.def Info: ./images//or-gate.png  used on input line 107.
+(pdftex.def)             Requested size: 66.24733pt x 41.15364pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 105--128
+[]$[]$ $[]$ 
+ []
+
+[1 <./images//and-gate.png>]
+<./images//not-gate.png, id=19, 68.255pt x 42.1575pt>
+File: ./images//not-gate.png Graphic file (type png)
+<use ./images//not-gate.png>
+Package pdftex.def Info: ./images//not-gate.png  used on input line 136.
+(pdftex.def)             Requested size: 68.25482pt x 42.15738pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 134--153
+[]$[]$ $[]$ 
+ []
+
+<./images//nand-gate.png, id=20, 78.2925pt x 38.1425pt>
+File: ./images//nand-gate.png Graphic file (type png)
+<use ./images//nand-gate.png>
+Package pdftex.def Info: ./images//nand-gate.png  used on input line 160.
+(pdftex.def)             Requested size: 78.2923pt x 38.1424pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 158--181
+[]$[]$ $[]$ 
+ []
+
+<./images//nor-gate.png, id=21, 73.27374pt x 43.16125pt>
+File: ./images//nor-gate.png Graphic file (type png)
+<use ./images//nor-gate.png>
+Package pdftex.def Info: ./images//nor-gate.png  used on input line 188.
+(pdftex.def)             Requested size: 73.27354pt x 43.16113pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 186--209
+[]$[]$ $[]$ 
+ []
+
+[2 <./images//or-gate.png> <./images//not-gate.png> <./images//nand-gate.png> <
+./images//nor-gate.png>]
+<./images//xor-gate.png, id=30, 71.26625pt x 43.16125pt>
+File: ./images//xor-gate.png Graphic file (type png)
+<use ./images//xor-gate.png>
+Package pdftex.def Info: ./images//xor-gate.png  used on input line 216.
+(pdftex.def)             Requested size: 71.26605pt x 43.16113pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 214--237
+[]$[]$ $[]$ 
+ []
+
+<./images//xnor-gate.png, id=31, 76.285pt x 45.16875pt>
+File: ./images//xnor-gate.png Graphic file (type png)
+<use ./images//xnor-gate.png>
+Package pdftex.def Info: ./images//xnor-gate.png  used on input line 243.
+(pdftex.def)             Requested size: 76.2848pt x 45.16862pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 240--264
+[]$ $[]$ 
+ []
+
+[3 <./images//xor-gate.png> <./images//xnor-gate.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+
+ []
+
+<./images//and.png, id=38, 541.27219pt x 222.07968pt>
+File: ./images//and.png Graphic file (type png)
+<use ./images//and.png>
+Package pdftex.def Info: ./images//and.png  used on input line 300.
+(pdftex.def)             Requested size: 270.63542pt x 111.03957pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 298--321
+[]$[]$ $[]$ 
+ []
+
+<./images//3-input-and-gate.png, id=39, 205.76875pt x 121.45375pt>
+File: ./images//3-input-and-gate.png Graphic file (type png)
+<use ./images//3-input-and-gate.png>
+Package pdftex.def Info: ./images//3-input-and-gate.png  used on input line 327
+.
+(pdftex.def)             Requested size: 102.88411pt x 60.72672pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 325--356
+[]$[]$ $[]$ 
+ []
+
+[4 <./images//and.png>]
+<./images//4-input-or.png, id=44, 539.01375pt x 276.03125pt>
+File: ./images//4-input-or.png Graphic file (type png)
+<use ./images//4-input-or.png>
+Package pdftex.def Info: ./images//4-input-or.png  used on input line 358.
+(pdftex.def)             Requested size: 269.50621pt x 138.01527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+<./images//or.png, id=45, 519.44063pt x 215.30438pt>
+File: ./images//or.png Graphic file (type png)
+<use ./images//or.png>
+Package pdftex.def Info: ./images//or.png  used on input line 370.
+(pdftex.def)             Requested size: 259.71968pt x 107.65192pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 368--391
+[]$[]$ $[]$ 
+ []
+
+<./images//4-input-or-gate.png, id=46, 103.38625pt x 37.13875pt>
+File: ./images//4-input-or-gate.png Graphic file (type png)
+<use ./images//4-input-or-gate.png>
+Package pdftex.def Info: ./images//4-input-or-gate.png  used on input line 397.
+
+(pdftex.def)             Requested size: 103.38599pt x 37.13866pt.
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 395--442
+[]$[]$ $[]$ 
+ []
+
+[5 <./images//3-input-and-gate.png> <./images//4-input-or.png> <./images//or.pn
+g>]
+File: ./images//4-input-or.png Graphic file (type png)
+<use ./images//4-input-or.png>
+Package pdftex.def Info: ./images//4-input-or.png  used on input line 444.
+(pdftex.def)             Requested size: 269.50621pt x 138.01527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
+
+ []
+
+<./images//not.png, id=53, 290.58563pt x 197.98969pt>
+File: ./images//not.png Graphic file (type png)
+<use ./images//not.png>
+Package pdftex.def Info: ./images//not.png  used on input line 454.
+(pdftex.def)             Requested size: 145.29245pt x 98.9946pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 452--471
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
+
+ []
+
+[6 <./images//4-input-or-gate.png> <./images//not.png>]
+<./images//nand.png, id=60, 523.9575pt x 213.04594pt>
+File: ./images//nand.png Graphic file (type png)
+<use ./images//nand.png>
+Package pdftex.def Info: ./images//nand.png  used on input line 479.
+(pdftex.def)             Requested size: 261.9781pt x 106.5227pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 477--500
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--505
+
+ []
+
+<./images//nor.png, id=61, 516.42938pt x 206.27063pt>
+File: ./images//nor.png Graphic file (type png)
+<use ./images//nor.png>
+Package pdftex.def Info: ./images//nor.png  used on input line 508.
+(pdftex.def)             Requested size: 258.21405pt x 103.13506pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 506--529
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--534
+
+ []
+
+<./images//xor.png, id=62, 526.96875pt x 219.06844pt>
+File: ./images//xor.png Graphic file (type png)
+<use ./images//xor.png>
+Package pdftex.def Info: ./images//xor.png  used on input line 537.
+(pdftex.def)             Requested size: 263.48372pt x 109.53394pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 535--558
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--563
+
+ []
+
+<./images//xnor.png, id=63, 522.45187pt x 216.05719pt>
+File: ./images//xnor.png Graphic file (type png)
+<use ./images//xnor.png>
+Package pdftex.def Info: ./images//xnor.png  used on input line 566.
+(pdftex.def)             Requested size: 261.2253pt x 108.02832pt.
+
+Overfull \hbox (20.23589pt too wide) in paragraph at lines 564--587
+[]$[]$ $[]$ 
+ []
+
+[7 <./images//nand.png> <./images//nor.png> <./images//xor.png>]
+<./images//nand-and.png, id=70, 400.49625pt x 95.6072pt>
+File: ./images//nand-and.png Graphic file (type png)
+<use ./images//nand-and.png>
+Package pdftex.def Info: ./images//nand-and.png  used on input line 593.
+(pdftex.def)             Requested size: 400.49527pt x 95.60695pt.
+<./images//nand-or.png, id=71, 414.04688pt x 183.68625pt>
+File: ./images//nand-or.png Graphic file (type png)
+<use ./images//nand-or.png>
+Package pdftex.def Info: ./images//nand-or.png  used on input line 595.
+(pdftex.def)             Requested size: 207.02292pt x 91.84288pt.
+<./images//nand-nor.png, id=72, 553.31718pt x 176.15813pt>
+File: ./images//nand-nor.png Graphic file (type png)
+<use ./images//nand-nor.png>
+Package pdftex.def Info: ./images//nand-nor.png  used on input line 597.
+(pdftex.def)             Requested size: 276.65791pt x 88.07884pt.
+<./images//nand-not.png, id=73, 240.9pt x 81.30376pt>
+File: ./images//nand-not.png Graphic file (type png)
+<use ./images//nand-not.png>
+Package pdftex.def Info: ./images//nand-not.png  used on input line 599.
+(pdftex.def)             Requested size: 240.8994pt x 81.30354pt.
+<./images//nand-xor.png, id=74, 545.78906pt x 152.06813pt>
+File: ./images//nand-xor.png Graphic file (type png)
+<use ./images//nand-xor.png>
+Package pdftex.def Info: ./images//nand-xor.png  used on input line 601.
+(pdftex.def)             Requested size: 272.89386pt x 76.03387pt.
+ [8 <./images//xnor.png> <./images//nand-and.png> <./images//nand-or.png> <./im
+ages//nand-nor.png> <./images//nand-not.png>]
+<./images//nand-xnor.png, id=83, 636.87938pt x 163.3603pt>
+File: ./images//nand-xnor.png Graphic file (type png)
+<use ./images//nand-xnor.png>
+Package pdftex.def Info: ./images//nand-xnor.png  used on input line 603.
+(pdftex.def)             Requested size: 318.4389pt x 81.67995pt.
+<./images//nor-and.png, id=84, 376.40625pt x 149.05687pt>
+File: ./images//nor-and.png Graphic file (type png)
+<use ./images//nor-and.png>
+Package pdftex.def Info: ./images//nor-and.png  used on input line 609.
+(pdftex.def)             Requested size: 376.40532pt x 149.0565pt.
+<./images//nor-or.png, id=85, 375.65344pt x 89.58469pt>
+File: ./images//nor-or.png Graphic file (type png)
+<use ./images//nor-or.png>
+Package pdftex.def Info: ./images//nor-or.png  used on input line 611.
+(pdftex.def)             Requested size: 187.82625pt x 44.79222pt.
+<./images//nor-nand.png, id=86, 513.41812pt x 146.79843pt>
+File: ./images//nor-nand.png Graphic file (type png)
+<use ./images//nor-nand.png>
+Package pdftex.def Info: ./images//nor-nand.png  used on input line 613.
+(pdftex.def)             Requested size: 256.70842pt x 73.39903pt.
+<./images//nor-not.png, id=87, 254.45062pt x 72.27pt>
+File: ./images//nor-not.png Graphic file (type png)
+<use ./images//nor-not.png>
+Package pdftex.def Info: ./images//nor-not.png  used on input line 615.
+(pdftex.def)             Requested size: 254.45pt x 72.2698pt.
+<./images//nor-xor.png, id=88, 645.16031pt x 139.27031pt>
+File: ./images//nor-xor.png Graphic file (type png)
+<use ./images//nor-xor.png>
+Package pdftex.def Info: ./images//nor-xor.png  used on input line 617.
+(pdftex.def)             Requested size: 322.57936pt x 69.63498pt.
+ [9 <./images//nand-xor.png> <./images//nand-xnor.png> <./images//nor-and.png> 
+<./images//nor-or.png> <./images//nor-nand.png> <./images//nor-not.png>]
+<./images//nor-xnor.png, id=98, 514.92375pt x 138.5175pt>
+File: ./images//nor-xnor.png Graphic file (type png)
+<use ./images//nor-xnor.png>
+Package pdftex.def Info: ./images//nor-xnor.png  used on input line 619.
+(pdftex.def)             Requested size: 257.46124pt x 69.25858pt.
+ [10 <./images//nor-xor.png> <./images//nor-xnor.png>]
+[11] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4553 strings out of 479383
+ 73411 string characters out of 5875830
+ 370969 words of memory out of 5000000
+ 21647 multiletter control sequences out of 15000+600000
+ 409301 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 78i,11n,85p,439b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
+s1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on report.pdf (12 pages, 279043 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+

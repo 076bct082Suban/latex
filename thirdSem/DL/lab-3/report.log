@@ -1,0 +1,409 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.22)  7 JUN 2021 20:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/suban/Documents/school/latex/thirdSem/DL/lab-3/report.tex
+(/home/suban/Documents/school/latex/thirdSem/DL/lab-3/report.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count185
+\calc@Bcount=\count186
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count187
+\calc@Cskip=\skip51
+) (/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks17
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count266
+\l_MT_multwidth_dim=\dimen150
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen151
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen152
+\l_MT_above_intertext_sep=\dimen153
+\l_MT_below_intertext_sep=\dimen154
+\l_MT_above_shortintertext_sep=\dimen155
+\l_MT_below_shortintertext_sep=\dimen156
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen157
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count269
+\c@subtable=\count270
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks21
+) (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box50
+) (/home/suban/Documents/school/latex/thirdSem/DL/lab-3/report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen175
+\scratchbox=\box51
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen176
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 736.64186pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=706.64186pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./images//logo.png, id=1, 134.00063pt x 113.67468pt>
+File: ./images//logo.png Graphic file (type png)
+<use ./images//logo.png>
+Package pdftex.def Info: ./images//logo.png  used on input line 25.
+(pdftex.def)             Requested size: 134.00027pt x 113.6744pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+\OT1/cmr/m/n/12 Department of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+\OT1/cmr/m/n/12 Elec-tron-ics and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+\OT1/cmr/m/n/12 Com-mu-ni-ca-tions
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//logo.png>] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+ []
+
+<./images//half-adder-block.png, id=14, 568.1225pt x 181.67876pt>
+File: ./images//half-adder-block.png Graphic file (type png)
+<use ./images//half-adder-block.png>
+Package pdftex.def Info: ./images//half-adder-block.png  used on input line 102.
+(pdftex.def)             Requested size: 284.06055pt x 90.83914pt.
+<./images//half-adder-circuit.png, id=15, 1204.5pt x 669.50125pt>
+File: ./images//half-adder-circuit.png Graphic file (type png)
+<use ./images//half-adder-circuit.png>
+Package pdftex.def Info: ./images//half-adder-circuit.png  used on input line 108.
+(pdftex.def)             Requested size: 120.45705pt x 66.95404pt.
+[2 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-adder-block.png> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-adder-circuit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+
+ []
+
+<./images//full-adder-block.jpg, id=23, 368.37625pt x 168.63pt>
+File: ./images//full-adder-block.jpg Graphic file (type jpg)
+<use ./images//full-adder-block.jpg>
+Package pdftex.def Info: ./images//full-adder-block.jpg  used on input line 149.
+(pdftex.def)             Requested size: 184.18767pt x 84.31479pt.
+<./images//full-adder-circuit.png, id=24, 246.9225pt x 205.76875pt>
+File: ./images//full-adder-circuit.png Graphic file (type png)
+<use ./images//full-adder-circuit.png>
+Package pdftex.def Info: ./images//full-adder-circuit.png  used on input line 155.
+(pdftex.def)             Requested size: 148.15462pt x 123.46219pt.
+[3 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-adder-block.jpg> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-adder-circuit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+<./images//half-sub-block.png, id=30, 708.6475pt x 276.03125pt>
+File: ./images//half-sub-block.png Graphic file (type png)
+<use ./images//half-sub-block.png>
+Package pdftex.def Info: ./images//half-sub-block.png  used on input line 199.
+(pdftex.def)             Requested size: 177.16144pt x 69.00763pt.
+<./images//half-sub-circuit.png, id=31, 590.205pt x 230.8625pt>
+File: ./images//half-sub-circuit.png Graphic file (type png)
+<use ./images//half-sub-circuit.png>
+Package pdftex.def Info: ./images//half-sub-circuit.png  used on input line 205.
+(pdftex.def)             Requested size: 236.0778pt x 92.34335pt.
+[4 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-sub-block.png> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-sub-circuit.png>]
+<./images//full-sub-block.png, id=37, 723.70375pt x 218.8175pt>
+File: ./images//full-sub-block.png Graphic file (type png)
+<use ./images//full-sub-block.png>
+Package pdftex.def Info: ./images//full-sub-block.png  used on input line 243.
+(pdftex.def)             Requested size: 217.1128pt x 65.64575pt.
+<./images//full-sub-circuit.png, id=38, 732.7375pt x 172.645pt>
+File: ./images//full-sub-circuit.png Graphic file (type png)
+<use ./images//full-sub-circuit.png>
+Package pdftex.def Info: ./images//full-sub-circuit.png  used on input line 249.
+(pdftex.def)             Requested size: 439.64589pt x 103.58778pt.
+ [5 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-sub-block.png> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-sub-circuit.png>]
+<./images//half-adder-from-full-block.png, id=45, 635.37375pt x 244.915pt>
+File: ./images//half-adder-from-full-block.png Graphic file (type png)
+<use ./images//half-adder-from-full-block.png>
+Package pdftex.def Info: ./images//half-adder-from-full-block.png  used on input line 293.
+(pdftex.def)             Requested size: 381.22719pt x 146.95012pt.
+<./images//full-adder-from-half-circuit.jpg, id=46, 225.84375pt x 113.67468pt>
+File: ./images//full-adder-from-half-circuit.jpg Graphic file (type jpg)
+<use ./images//full-adder-from-half-circuit.jpg>
+Package pdftex.def Info: ./images//full-adder-from-half-circuit.jpg  used on input line 298.
+(pdftex.def)             Requested size: 225.84319pt x 113.6744pt.
+ [6 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-adder-from-full-block.png> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-adder-from-half-circuit.jpg>]
+<./images//full-sub-from-half-sub-circuit.jpg, id=52, 691.08188pt x 392.96812pt>
+File: ./images//full-sub-from-half-sub-circuit.jpg Graphic file (type jpg)
+<use ./images//full-sub-from-half-sub-circuit.jpg>
+Package pdftex.def Info: ./images//full-sub-from-half-sub-circuit.jpg  used on input line 320.
+(pdftex.def)             Requested size: 414.65233pt x 235.78268pt.
+ [7 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-sub-from-half-sub-circuit.jpg>] [8] [9]
+<./images//half-adder.png, id=62, 481.8pt x 230.36063pt>
+File: ./images//half-adder.png Graphic file (type png)
+<use ./images//half-adder.png>
+Package pdftex.def Info: ./images//half-adder.png  used on input line 415.
+(pdftex.def)             Requested size: 289.08221pt x 138.21742pt.
+<./images//full-adder.png, id=63, 528.47438pt x 393.72093pt>
+File: ./images//full-adder.png Graphic file (type png)
+<use ./images//full-adder.png>
+Package pdftex.def Info: ./images//full-adder.png  used on input line 437.
+(pdftex.def)             Requested size: 317.08707pt x 236.23438pt.
+ [10 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-adder.png> </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-adder.png>]
+File: ./images//full-adder.png Graphic file (type png)
+<use ./images//full-adder.png>
+Package pdftex.def Info: ./images//full-adder.png  used on input line 459.
+(pdftex.def)             Requested size: 317.08707pt x 236.23438pt.
+ [11]
+<./images//half-sub.png, id=72, 530.73282pt x 361.35pt>
+File: ./images//half-sub.png Graphic file (type png)
+<use ./images//half-sub.png>
+Package pdftex.def Info: ./images//half-sub.png  used on input line 481.
+(pdftex.def)             Requested size: 212.28937pt x 144.53743pt.
+ [12 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-sub.png>]
+<./images//full-sub.png, id=78, 440.39531pt x 350.81062pt>
+File: ./images//full-sub.png Graphic file (type png)
+<use ./images//full-sub.png>
+Package pdftex.def Info: ./images//full-sub.png  used on input line 489.
+(pdftex.def)             Requested size: 264.23921pt x 210.48799pt.
+ [13 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-sub.png>]
+<./images//half-adder-sub.png, id=83, 552.56438pt x 374.14781pt>
+File: ./images//half-adder-sub.png Graphic file (type png)
+<use ./images//half-adder-sub.png>
+Package pdftex.def Info: ./images//half-adder-sub.png  used on input line 527.
+(pdftex.def)             Requested size: 331.54118pt x 224.4904pt.
+ [14 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//half-adder-sub.png>]
+<./images//full-adder-sub.png, id=88, 510.40688pt x 333.49594pt>
+File: ./images//full-adder-sub.png Graphic file (type png)
+<use ./images//full-adder-sub.png>
+Package pdftex.def Info: ./images//full-adder-sub.png  used on input line 563.
+(pdftex.def)             Requested size: 306.24648pt x 200.09909pt.
+ [15 </home/suban/Documents/school/latex/thirdSem/DL/lab-3/./images//full-adder-sub.png>] [16] (/home/suban/Documents/school/latex/thirdSem/DL/lab-3/report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4450 strings out of 479383
+ 72601 string characters out of 5875830
+ 371969 words of memory out of 5000000
+ 21527 multiletter control sequences out of 15000+600000
+ 408358 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 78i,15n,85p,313b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /home/suban/Documents/school/latex/thirdSem/DL/lab-3/report.pdf (17 pages, 370690 bytes).
+PDF statistics:
+ 117 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
