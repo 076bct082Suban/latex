@@ -1,39 +1,36 @@
 #! /bin/sh
 CURPATH=`pwd`
 
-# argument structure
-# ./create {type} {docmuent name} {location}[optional]
+# basically copies a folder from template folder to a desired location
 
-if [ -z "$1" ]
-then
-    echo "please enter type of the file you wish to create"
-    exit 1
-fi
-if [ -z "$2" ]
-then 
-    echo "Please enter file name"
-    exit 1
-fi
+read -e -p "Type of project: " typename
 
-DIR="$CURPATH/template/$1"
-NAME="$2"
-OUTDIR="$3"
+DIR="$CURPATH/template/$typename"
 
 if [ -d "$DIR" ]
 then
     echo "Template found. "
 else
     echo "Template Not found. "
+    exit 0
 fi
 
-if  [ -z "$3" ]
+read -e -p "Enter project name: " name
+
+if [ -z "$name" ]
 then
-    # If we don't have a third argument (location) outputs pwd
-    `cp -R $DIR ./$NAME`
+  echo "No name, exiting.."
+  exit 0
+fi
+
+read -e -p "path name:" pathname
+
+if  [ -z "$pathname" ]
+then
+  `cp -R $DIR ./$name`
 
 else
-
-    `cd $OUTDIR;cp -R $DIR ./$NAME`
+  `cd $pathname; cp -R $DIR ./$name`
 fi
 
 

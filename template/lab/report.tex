@@ -3,7 +3,6 @@
 \usepackage{mathtools}
 \usepackage{graphicx}
 \usepackage{amsmath}
-
 \usepackage{caption}
 \usepackage{subcaption}
 
@@ -18,38 +17,65 @@
 
 \graphicspath{{./images/}}
 
+\usepackage{tikz} % for the vertical lines
+\usepackage{tabularx} % aligning the submittion date and stuff
+
 \begin{document}
 
 \begin{titlepage}
 	\begin{center}
 	\includegraphics{logo}\\
 	\large{\textbf{TRIBHUVAN UNIVERSITY\\ INSTITUTE OF ENGINEERING \\ PULCHOWK CAMPUS}}\\
-	\large{LAB REPORT}\\
+	\large{LAB REPORT}
+	\linebreak[2]
 	
-	\begin{picture}(50,250)
-		\put(0,--25){\line(0,1){150}}
-		\put(25,-25){\line(0,1){250}}
-		\put(50,25){\line(0,1){150}}
-	\end{picture}
+	\begin{tikzpicture}[scale=1.5]
+		\draw[very thick] (0,1) -- (0, 6);
+		\draw[very thick] (1.5,0) -- (1.5, 7);
+		\draw[very thick] (3,1) -- (3, 6);
+	\end{tikzpicture}
+
 	\end{center}
 	\vspace{1cm}
 	\begin{minipage}{2.5in}
-
-    	Lab No: \\
-    	Experiment Date: 2020--\\
-    	Submission Date: 2020--\\
+		\begin{center}
+			Lab No: \\
+			Experiment Date: 2020--\\
+			Submission Date: 2020--
+			\linebreak[2]
 
     	\textbf{\underline{Submitted By:}}\\
     	Name: Suban Shrestha \\
     	Roll No: 076BCT082 \\
     	Group: CD(D)
+		\end{center}
 	\end{minipage}
 	\hfill
 	\begin{minipage}{1.3in}
-    	\textbf{\underline{Submitted To:}}\\
-    	Department of Electronics and Communications Enginnering
+		\begin{center}
+			\textbf{\underline{Submitted To:}}\\
+			Department of Electronics and Communications Enginnering
+		\end{center}
 	\end{minipage}
 \end{titlepage}
 
+\title{Some title}
+\date{}
+\author{}
+\maketitle
+
+\section{Objectives}
+\begin{itemize}
+	\item 
+\end{itemize}
+
+\section{Theory}
+
+\pagebreak
+\section{Lab}
+
+\pagebreak
+\section{Conclusion}
+\section{Discussion}
 \end{document}
 
